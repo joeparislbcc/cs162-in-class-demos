@@ -41,7 +41,4 @@ __Remember:__ The GUI is _not_ the program, it is just the interface to the prog
 
 `demo8.py`
 
-## Images
-
-Tkinter only supports
-Need to
+`demo9.py`
